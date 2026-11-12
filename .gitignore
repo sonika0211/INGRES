@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+
+ingres.db
+AU2020.geojson
+data/AU2020.geojson
+data/blocks_map.geojson
